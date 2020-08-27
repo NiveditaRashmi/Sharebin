@@ -1,0 +1,16 @@
+/* #header {
+  display: inline;
+} */
+
+#websiteName
+{
+  font-weight: bold;
+}
+
+.white .white a {
+  color: white;
+}
+
+.nav_btn {
+  padding-right: 10px;
+}
